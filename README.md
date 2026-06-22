@@ -38,8 +38,7 @@
 
 ## Overview
 
-This portfolio project demonstrates the design of a complete developer
-onboarding ecosystem for a fictional HealthTech startup.
+This portfolio project demonstrates the design of a complete developer onboarding ecosystem for a fictional HealthTech startup.
 
 ---
 
