@@ -100,26 +100,89 @@ days of beginning onboarding.
 
 ## Deliverables
 
+- Project Brief
+- User Personas
+- Learner Personas
+- User Journey Map
+- Task Analysis
+- Requirements Document
+- Success Metrics Document
+- User Stories
+- Acceptance Criteria Matrix
+- Product Backlog
+- Sprint Plan
+- Documentation Sitemap
+- Welcome Guide
+- Setup Guide
+- Quick Start Guide
+- Git Workflow Guide
+- Troubleshooting Guide
+- Developer Handbook
+- Portfolio Case Study
+
 ---
 
 ## Stakeholders
+
+- Product Manager
+- Engineering Manager
+- Technical Writer
+- Senior Developers
+- Junior Developers
+- Intern Developers
+- Documentation Maintainers
 
 ---
 
 ## Success Criteria
 
+- New developers can complete environment setup in 60 minutes or less using
+  onboarding documentation alone.
+- Users can locate required onboarding resources without assistance.
+- Users can complete onboarding tasks with minimal support from senior
+  developers.
+- Users can submit their first pull request within 48 hours of beginning
+  onboarding.
+- Users can successfully complete all onboarding activities by following the
+  provided documentation.
+- Documentation passes accessibility and usability reviews before release.
+- Stakeholders identify the onboarding system as the primary source of
+  onboarding information for new developers.
+
 ---
 
 ## Assumptions
+
+- Users have basic computer literacy.
+- Users have access to a development workstation.
+- Users possess limited Git and software development experience.
+- Documentation will be the primary onboarding resource.
+- Users are motivated to learn independently.
 
 ---
 
 ## Risks
 
+- Documentation may become outdated.
+- User needs may differ from assumptions.
+- Documentation may contain knowledge gaps.
+- Excessive information could increase cognitive load.
+- Limited user testing may reduce validation accuracy.
+
 ---
 
 ## References
 
+- Agile Manifesto
+- Google Technical Writing Resources
+- Microsoft Writing Style Guide
+- GitHub Documentation
+- Nielsen Norman Group UX Research
+
 ---
 
 ## Revision History
+
+| Version | Date       | Description           | Author            |
+| ------- | ---------- | --------------------- | ----------------- |
+| 1.0     | 2026-06-26 | Initial draft created | Kimberlee Haldane |
